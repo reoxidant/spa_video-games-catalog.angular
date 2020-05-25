@@ -1,0 +1,102 @@
+{
+  "1": {
+    "name": "Tom Clancy's Rainbow Six Siege",
+    "price": 999,
+    "image": "https://cdn.gabestore.ru/product/370x460_ttrMGZ9WmT3Tc3PD4_ewDzL7etA9nydK.jpg"
+  },
+  "2": {
+    "name": "Alan Wake – Collector’s Edition",
+    "price": 435,
+    "image": "https://cdn.gabestore.ru/product/370x460_O5Hay87cH8yKKtWeB7pE2Eu265ULLSJW.jpg"
+  },
+  "3": {
+    "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+    "price": 949,
+    "image": "https://cdn.gabestore.ru/product/370x460_eNpv1AlRVGIDGy8-skHn-GWG5KZBVhjB.jpg"
+  },
+  "4":{
+    "name": "Gothic Universe Edition",
+    "price": 299,
+    "image": "https://cdn.gabestore.ru/product/370x460_OGtkibIfhIAEJFLOHkAcPC26dagGitYR.jpg"
+  },
+  "5": {
+    "name": "Dark Souls 2: Scholar of the First Sin",
+    "price": 1199,
+    "image": "https://cdn.gabestore.ru/product/370x460_0-Vobv2_rY6hknB5-okpmJsO5Bp9xGVm.png"
+  },
+  "6" : {
+    "name": "Sid Meier’s Civilization VI – Platinum Edition",
+    "price": 6071,
+    "image": "https://cdn.gabestore.ru/product/370x460_VSuYHls6M-VadrDdd6635WQVuZJmyGp7.jpg"
+  },
+  "7": {
+    "name": "Tom Clancy's Rainbow Six Siege – Deluxe Edition",
+    "price": 1499,
+    "image": "https://cdn.gabestore.ru/product/370x460__VKb9pwAgYpaby2Lt2GSQEqLsHgtec2h.jpg"
+  },
+  "8": {
+    "name": "Beholder",
+    "price": 239,
+    "image": "https://cdn.gabestore.ru/product/370x460_7UKIGnC-_wiRRPS2U6Y3YztuPIw6TxOC.jpg"
+  },
+  "9" : {
+    "name": "Dying Light – Enhanced Edition",
+    "price": 1299,
+    "image": "https://cdn.gabestore.ru/product/370x460_x5eD5FoH0UbdaJpDHckFccI5o1ht8fFN.png"
+  },
+  "10": {
+    "name": "Dark Souls 3 – Deluxe Edition",
+    "price": 2999,
+    "image": "https://cdn.gabestore.ru/product/370x460_o7UHgFA6XlIhPodbTANnKKbQnvaf-uV9.png"
+  },
+  "11": {
+    "name": "Tom Clancy's Rainbow Six Siege",
+    "price": 999,
+    "image": "https://cdn.gabestore.ru/product/370x460_ttrMGZ9WmT3Tc3PD4_ewDzL7etA9nydK.jpg"
+  },
+  "12": {
+    "name": "Alan Wake – Collector’s Edition",
+    "price": 435,
+    "image": "https://cdn.gabestore.ru/product/370x460_O5Hay87cH8yKKtWeB7pE2Eu265ULLSJW.jpg"
+  },
+  "13": {
+    "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+    "price": 949,
+    "image": "https://cdn.gabestore.ru/product/370x460_eNpv1AlRVGIDGy8-skHn-GWG5KZBVhjB.jpg"
+  },
+  "14":{
+    "name": "Gothic Universe Edition",
+    "price": 299,
+    "image": "https://cdn.gabestore.ru/product/370x460_OGtkibIfhIAEJFLOHkAcPC26dagGitYR.jpg"
+  },
+  "15": {
+    "name": "Dark Souls 2: Scholar of the First Sin",
+    "price": 1199,
+    "image": "https://cdn.gabestore.ru/product/370x460_0-Vobv2_rY6hknB5-okpmJsO5Bp9xGVm.png"
+  },
+  "16" : {
+    "name": "Sid Meier’s Civilization VI – Platinum Edition",
+    "price": 6071,
+    "image": "https://cdn.gabestore.ru/product/370x460_VSuYHls6M-VadrDdd6635WQVuZJmyGp7.jpg"
+  },
+  "17": {
+    "name": "Tom Clancy's Rainbow Six Siege – Deluxe Edition",
+    "price": 1499,
+    "image": "https://cdn.gabestore.ru/product/370x460__VKb9pwAgYpaby2Lt2GSQEqLsHgtec2h.jpg"
+  },
+  "18": {
+    "name": "Beholder",
+    "price": 239,
+    "image": "https://cdn.gabestore.ru/product/370x460_7UKIGnC-_wiRRPS2U6Y3YztuPIw6TxOC.jpg"
+  },
+  "19" : {
+    "name": "Dying Light – Enhanced Edition",
+    "price": 1299,
+    "image": "https://cdn.gabestore.ru/product/370x460_x5eD5FoH0UbdaJpDHckFccI5o1ht8fFN.png"
+  },
+  "20": {
+    "name": "Dark Souls 3 – Deluxe Edition",
+    "price": 2999,
+    "image": "https://cdn.gabestore.ru/product/370x460_o7UHgFA6XlIhPodbTANnKKbQnvaf-uV9.png"
+  }
+}
