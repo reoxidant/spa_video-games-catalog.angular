@@ -1,4 +1,4 @@
-# List video games, just try to reply from the gabestore site a cards of game
+# List video games, just try to reply from the gabestore site maked a card of games
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
